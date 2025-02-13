@@ -57,3 +57,6 @@ Automated Removal (Python)
 
 # Conclusion
 This project implements a secure messaging system using RSA encryption, ensuring confidentiality and protection against eavesdropping. By following the structured approach of key generation, exchange, and encryption-based communication, a robust and secure chat application is successfully created between two VMs.
+
+# Results
+![WhatsApp Image 2025-02-13 at 02 53 08_5af91ae3](https://github.com/user-attachments/assets/5f50b305-8b4d-4e1a-863a-7ba3d4245db6)
