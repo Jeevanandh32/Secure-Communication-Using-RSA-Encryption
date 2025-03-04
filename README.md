@@ -45,8 +45,7 @@ Communication continues until either party sends "exit".
 To enhance security, the exchanged public keys are deleted after the session.
 
 Manual Removal
-    
-    bash
+
     rm client_public.pem server_public.pem
 Automated Removal (Python)
  
