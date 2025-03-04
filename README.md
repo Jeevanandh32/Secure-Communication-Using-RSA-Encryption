@@ -31,7 +31,7 @@ Once the key exchange is complete, the VMs can securely communicate using RSA en
 Once all scripts are ready:
 On Server VM, run:
 
-     python3 server.py
+    python3 server.py
 On Client VM, run:
 
     python3 client.py
