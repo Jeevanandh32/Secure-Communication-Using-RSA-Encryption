@@ -6,7 +6,6 @@ This project aims to establish a secure communication channel between two Ubuntu
 # Step 1: Setup Ubuntu VMs
 Both VMs must have Python installed along with the required cryptographic library (pycryptodome). The following commands install the necessary dependencies:
 
-     bash
      sudo apt update && sudo apt install python3 python3-pip
      pip install pycryptodome
 
@@ -32,11 +31,9 @@ Once the key exchange is complete, the VMs can securely communicate using RSA en
 Once all scripts are ready:
 On Server VM, run:
 
-     bash
      python3 server.py
 On Client VM, run:
 
-    bash
     python3 client.py
 
 Communication continues until either party sends "exit".
